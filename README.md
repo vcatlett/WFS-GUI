@@ -1,1 +1,1 @@
-# A Graphical User Interface for Shack-Hartmann Wavefront Sensors
+# A GUI for Shack-Hartmann Wavefront Sensors
