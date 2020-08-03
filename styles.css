@@ -1,0 +1,17 @@
+QWidget {
+    background-color: rgb(50,50,50);
+    color: white;
+}
+
+QTabWidget {
+    background-color: rgb(50,50,50);
+    color: white;
+}
+
+QLabel {
+    color: white;
+}
+
+QCheckBox {
+    color: white;
+}
